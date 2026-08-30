@@ -158,8 +158,10 @@ java-enterprise-banking-api/
 
 MIT License - see [LICENSE](LICENSE) for details
 
-
 ## Live Demo
-- **GitHub Pages:** [https://raphasha27.github.io/java-enterprise-banking-api](https://raphasha27.github.io/java-enterprise-banking-api)
-- **Docker Hub:** [docker pull raphasha27/java-enterprise-banking-api](https://hub.docker.com/r/raphasha27/java-enterprise-banking-api)
+
+| Platform | URL |
+|----------|-----|
+| GitHub Pages | [https://raphasha27.github.io/java-enterprise-banking-api](https://raphasha27.github.io/java-enterprise-banking-api) |
+| Docker Hub | [docker pull raphasha27/java-enterprise-banking-api](https://hub.docker.com/r/raphasha27/java-enterprise-banking-api) |
 
